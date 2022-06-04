@@ -21,6 +21,10 @@
 
 [Amazon Review Data (2018)](https://nijianmo.github.io/amazon/index.html)
 
+**Colab notebook:**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oort77/OTUS_PRO_HW7/blob/main/main.ipynb)
+
 **Binder notebook:**
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oort77/OTUS_PRO_HW7/main)
