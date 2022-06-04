@@ -22,4 +22,4 @@
 
 **Binder notebook:**
 
-main.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oort77/OTUS_PRO_HW7/main)
